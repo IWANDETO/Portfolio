@@ -18,7 +18,7 @@ body {
   position: relative;
   background: url(https://source.unsplash.com/vZlTg_McCDo/1920x1080) no-repeat center center / cover;
   
-  // Dark overlay
+  /* Dark overlay */
   &:before {
     content: '';
     position: absolute;
